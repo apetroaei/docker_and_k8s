@@ -18,6 +18,7 @@ function App() {
         >
           Learn React
         </a>
+        <p> Hacked by And I.</p>
       </header>
     </div>
   );
